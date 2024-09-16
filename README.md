@@ -20,6 +20,4 @@ while True:
         <img src="http://github-readme-streak-stats.herokuapp.com?user=Darghano&theme=tokyonight_duo&hide_border=true&mode=weekly">
     </div>
 </div>
-```
 readme by dexv btw
-```
