@@ -5,7 +5,7 @@
 
 ```python
 Learning Python
-socials = "t.me/Darghano | darghano_termed. "
+socials = "t.me/Darghano | darghano_termed. | https://guns.lol/darghano "
 while True:
   print(socials)
 ```
