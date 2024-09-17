@@ -4,10 +4,9 @@
 <br>
 
 ```python
-Learning Python
 socials = "t.me/Darghano | darghano_termed. | https://guns.lol/darghano"
 languages = "German | English | Learning Russian"
-skills = "Good at discord.py and discord.py-self"
+skills = "discord.py | discord.py-self"
 while True:
   print(f"{socials} - {languages} - {skills}")
 ```
@@ -21,10 +20,5 @@ while True:
     <div>
         <img src="http://github-readme-streak-stats.herokuapp.com?user=Darghano&theme=tokyonight_duo&hide_border=true&mode=weekly">
     </div>
-  <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,vscode" />
-  </a>
-</p>
 </div>
 readme by dexv btw
