@@ -21,5 +21,10 @@ while True:
     <div>
         <img src="http://github-readme-streak-stats.herokuapp.com?user=Darghano&theme=tokyonight_duo&hide_border=true&mode=weekly">
     </div>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,vscode" />
+  </a>
+</p>
 </div>
 readme by dexv btw
