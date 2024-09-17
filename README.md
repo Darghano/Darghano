@@ -5,9 +5,11 @@
 
 ```python
 Learning Python
-socials = "t.me/Darghano | darghano_termed. | https://guns.lol/darghano "
+socials = "t.me/Darghano | darghano_termed. | https://guns.lol/darghano"
+languages = "German | English | Learning Russian"
+skills = "Good at discord.py and discord.py-self"
 while True:
-  print(socials)
+  print(f"{socials} - {languages} - {skills}")
 ```
 
 
